@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  justify-content: space-between ;
+}
+
+.card-service img {
+  width: 150px ;
+}
+
+.card-service {
+  border: solid;
+  margin-bottom: 15px;
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(246, 220, 244);
+  text-align: center;
+  padding: 50px;
+  border: 1px solid rgb(219, 216, 218);
+}
+
+.card-service h2, p {
+  color: black ;
+}
